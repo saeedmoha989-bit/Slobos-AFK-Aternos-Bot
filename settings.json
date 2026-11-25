@@ -6,9 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "blkjgzdizs.aternos.me
-
-",
+    "ip": "blkjgzdizs.aternos.me",
     "port": 59471,
     "version": "",
     "try-creative": false
